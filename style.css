@@ -155,6 +155,11 @@ header {
     color: white;
 }
 
+.card.atual {
+    background: gray;
+    color: white;
+}
+
 /* Table ===================== */
 #transaction {
     display: block;
@@ -302,7 +307,7 @@ footer {
 
     #balance {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
         gap: 2rem;
     }
 }
