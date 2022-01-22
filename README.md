@@ -5,7 +5,6 @@
 </h4>
 <h2 align="center">🛠 Tecnologias ultilizadas: </h2>
 <p align="center">
-  NodeJs
 - JavaScript
 - html5
 - Css3
